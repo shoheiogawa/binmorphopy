@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+build
+doc/_build
+doc/_static
+doc/_templates
+dist
+*.egg-info
+MANIFEST
+.eggs
+
+# Editors
+*.sw[op]
